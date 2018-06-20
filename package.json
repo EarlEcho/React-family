@@ -1,0 +1,15 @@
+{
+  "name": "react-family",
+  "version": "1.0.0",
+  "description": "React全家桶项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/EarlEcho/React-family.git"
+  },
+  "author": "EarlEcho",
+  "license": "ISC"
+}
