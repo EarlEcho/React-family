@@ -1,1 +1,12 @@
+#/dist/*
+/rev/*
+/node_modules/*
+/.idea/*
+*.log
 .DS_Store
+*-compiled.js
+*-compiled.map
+*-compiled.js.map
+/babel/*
+package-lock.json
+.eslintcache
